@@ -123,7 +123,6 @@ const styles = StyleSheet.create({
     marginVertical: 8,
   },
   textInput: {
-    backgroundColor: 'white',
     color: 'white',
     height: 50,
     borderWidth: 1,
