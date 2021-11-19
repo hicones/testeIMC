@@ -3,4 +3,5 @@
 
 ## Comandos
 
-yarn start ou expo start
+
+<pre><code>$ yarn start ou expo start</code></pre>
